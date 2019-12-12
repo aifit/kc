@@ -1,7 +1,7 @@
 - name: Kota Cepu
   bio: |
     Author
-  avatar: ./avatars/kclogo.jpg
+  avatar: ./avatars/favicon.png
   featured: true
   social:
     - name: Facebook
