@@ -1,33 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Kota Cepu | Selamat datang di kampung halaman`,
+    name: `Kota Cepu`,
+    siteUrl: `https://kotacepu.com`,
+    description: `Website galeri foto Kota Cepu`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Selamat datang di kampung halaman`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
+        name: `facebook`,
+        url: `https://www.facebook.com/kotacepu`,
       },
       {
-        name: `github`,
-        url: `https://github.com/narative`,
+        name: `twitter`,
+        url: `https://twitter.com/kotacepu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://instagram.com/kota_cepu`,
       },
     ],
   },
@@ -38,7 +30,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
