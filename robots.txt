@@ -1,4 +1,8 @@
 User-agent: *
-Allow: /
+Disallow: /img/
 Disallow: /css/
+
+User-agent: Twitterbot
+Allow: /img/
+
 Sitemap: https://kotacepu.com/sitemap.xml
