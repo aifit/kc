@@ -1,0 +1,8 @@
+User-agent: googlebot
+Disallow: /img/
+Disallow: /css/
+
+User-agent: Twitterbot
+Allow: /img/
+
+Sitemap: https://kotacepu.com/sitemap.xml
